@@ -7,10 +7,11 @@ Analyze e-commerce sales data to understand regional performance, product trends
 E-commerce sales data with details on regions, product categories, customer types, and payment methods.
 
 **Tools Used**
+
 Data Cleaning: Python (Pandas)
 Dashboard Design: Tableau
-**
-Key Insights**
+
+**Key Insights**
 
 **Regional Sales Trends:**
 
