@@ -37,7 +37,9 @@ Product category insights and performance.
 Segmentation of new vs. repeat customers.
 Payment preferences visualized by region and customer type.
 Interactive filters for deeper exploration.
-Recommendations to Improve Sales
+
+
+**Recommendations to Improve Sales**
 
 **Regional Targeting:**
 
