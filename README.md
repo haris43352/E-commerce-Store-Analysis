@@ -1,6 +1,7 @@
-****E-Commerce Sales and Customer Behavior Analysis**
+**E-Commerce Sales and Customer Behavior Analysis**
 
-Objective**
+**Objective**
+
 Analyze e-commerce sales data to understand regional performance, product trends, customer segmentation, and payment preferences, providing actionable insights to drive business growth.
 
 **Dataset**
